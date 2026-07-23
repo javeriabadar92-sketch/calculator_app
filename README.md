@@ -1,18 +1,20 @@
-📱 Calculator App
+# Calculator App
 
 A clean, minimal calculator app built with Flutter, inspired by the classic mobile calculator look — dark theme with bold orange and grey buttons for a sleek, modern feel.
 
-✨ Features
-🎨 Dark theme UI with orange (operators) and grey (numbers/functions) button styling
-➕➖✖️➗ Basic arithmetic operations: addition, subtraction, multiplication, division
-🧮 Clean, distraction-free calculator layout
-📱 Responsive design that fits naturally on mobile screens
-⚡ Smooth and lightweight — built entirely with Flutter widgets, no heavy dependencies
-🛠️ Tech Stack
+# Features
+Dark theme UI with orange (operators) and grey (numbers/functions) button styling
+Basic arithmetic operations: addition, subtraction, multiplication, division
+Clean, distraction-free calculator layout
+Responsive design that fits naturally on mobile screens
+Smooth and lightweight — built entirely with Flutter widgets, no heavy dependencies
+
+# Tech Stack
 Framework: Flutter
 Language: Dart
 Platform: Android / iOS (cross-platform)
-🚀 Getting Started
+
+# Getting Started
 Prerequisites
 
 Make sure you have Flutter installed. If not, follow the official Flutter installation guide.
@@ -31,7 +33,7 @@ flutter pub get
 # Run the app
 flutter run
 
-📂 Project Structure
+# Project Structure
 calculator_app/
 ├── lib/
 │   └── main.dart        # App entry point & calculator logic
@@ -39,14 +41,14 @@ calculator_app/
 ├── ios/                   # iOS-specific files
 ├── pubspec.yaml           # Project dependencies
 └── README.md
-🤝 Contributing
+# Contributing
 
 This is a personal learning project, but suggestions and feedback are always welcome! Feel free to open an issue or fork it and experiment.
 
-📄 License
+# License
 
 This project is open source and available for learning purposes.
 
-👩‍💻 Author
+# Author
 
 Javeria Badar Software Engineer | Flutter & Frontend Enthusiast
